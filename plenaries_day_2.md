@@ -50,3 +50,29 @@
 - Remove accreditation step: risk assessment needs to be done throughout
 - Risk in the supply chain: other orgs risks aren't in your control
 - People are _responsible_ but not _accountable_
+
+
+## People: The Strongest Link - Emma W, NCSC
+
+- Diverse skills needed to address the really hard problems
+- We haven't put nearly enough research into how people function wrt security
+  - focus has been on trying to 'fix the user'
+- Punishing users for falling for phishing attempts doesn't make sense
+  - some are really good!
+  - wastes time and money
+  - hurts users
+  - doesn't change anything!!
+- We ask users to decide whether they trust emails - how are they supposed to
+  do that
+- No evidence that regular password changes help to make accounts more secure
+- We understand tech more than we understand people, so we make the tech then
+  ask people to come to it
+- "Security must work for people, because if security doesn't work for people,
+  it doesn't work"
+- Policies are often a stick to beat people with when they do things wrong -
+  not a tool to help them to do things right
+- "People are the _only_ link"
+
+### Video
+
+- When your employees bend the rules, they're trying to tell you something
